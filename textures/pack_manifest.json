@@ -1,0 +1,16 @@
+{
+  "header": {
+    "pack_id": "0575c69f-a5da-4b7f-9961-ffda2908861a",
+    "name": "Fireworks",
+    "packs_version": "0.0.1",
+    "description": "Replaces Fire Charges with Fireworks.",
+    "modules": [
+      {
+        "description": "Replaces Fire Charges with Fireworks.",
+        "version": "0.0.1",
+        "uuid": "53644fad-a276-42e5-843f-a3c6f162a9ab",
+        "type": "resources"
+      }
+    ]
+  }
+}
