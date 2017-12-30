@@ -7,7 +7,7 @@
 
 ### Usage
 ----------
-To use Fireworks, simply download the `behaviours.mcaddon` and `textures.mcpack` files and open them in Minecraft.
+To use Fireworks, simply download the `fireworks.mcaddon` file and open it in Minecraft.
 
 ### Features
 -------------
